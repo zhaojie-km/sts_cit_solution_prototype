@@ -9,7 +9,7 @@ namespace LineAuto
     class WTMXController 
     {
 		//=====================================================================
-		// 定数11
+		// 定数xx
 		//=====================================================================
 		public const int NORMAL_CHL_MAX = 60;   // 通常ﾁｬﾈﾙ最大数
 		public const int WAIT_TIME = 3000; // 10ms単位
